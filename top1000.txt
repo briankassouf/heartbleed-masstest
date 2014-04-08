@@ -1,5 +1,4 @@
 Testing yahoo.com...  vulnerable.
-Testing imgur.com...  vulnerable.
 Testing stackoverflow.com...  vulnerable.
 Testing kickass.to...  vulnerable.
 Testing flickr.com...  vulnerable.
@@ -83,6 +82,7 @@ Testing google.fr...  not vulnerable.
 Testing google.co.jp...  not vulnerable.
 Testing msn.com...  no SSL.
 Testing instagram.com...  not vulnerable.
+Testing imgur.com...  not vulnerable.
 Testing tumblr.com...  not vulnerable.
 Testing 163.com...  no SSL.
 Testing google.com.br...  not vulnerable.
